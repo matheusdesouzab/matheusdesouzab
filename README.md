@@ -1,6 +1,6 @@
 ## Olá, meu nome é Matheus de Souza!
 
-Tenho 20 anos,  moro na cidade de Paulo Afonso BA, e sou um apaixonado por programação. Eu sou um programador Júnior, e estou em busca da minha primeira oportunidade como desenvolvedor.
+Tenho 20 anos,  moro na cidade de Paulo Afonso BA, e sou um apaixonado por programação. 
 
 ### Tecnologias e Ferramentas
 
