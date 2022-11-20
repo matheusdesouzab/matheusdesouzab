@@ -1,4 +1,4 @@
-### Olá, meu nome é Matheus de Souza Barbosa
+### Olá! Sou Matheus de Souza Barbosa
 
 - :dart: Trabalho como desenvolvedor backend 
 - :iphone: Whatsapp: (75)98818-6753
