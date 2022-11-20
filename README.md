@@ -6,7 +6,7 @@
 - :man_technologist: Estudo Laravel, Vuejs, API entre outras tecnologias
 
 <div align="center">
-   <a href="https://github.com/mate551">
+   <a href="https://github.com/matheusdesouzab">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=matheusdesouzab&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdesouzab&layout=compact&langs_count=7&theme=black"/>
    </a>
