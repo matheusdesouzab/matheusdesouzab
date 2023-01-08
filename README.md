@@ -3,7 +3,7 @@
 - :dart: Trabalho como desenvolvedor backend 
 - :iphone: Whatsapp: (75)98818-6753
 - :email: Email: matheusdesouza187@gmail.com
-- :man_technologist: Estudo Laravel, Vuejs, API entre outras tecnologias
+- :man_technologist: Estudo Laravel, Vuejs, API entre outras tecnologias.
 
 <div align="center">
    <a href="https://github.com/matheusdesouzab">
