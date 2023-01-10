@@ -8,7 +8,7 @@
 <div align="center">
    <a href="https://github.com/matheusdesouzab">
    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=matheusdesouzab&theme=vue&border_radius=3.5&locale=pt_BR" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdesouzab&layout=compact&langs_count=7&theme=black"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdesouzab&layout=compact&langs_count=7&theme=black"/
    </a>
  </div>  
 
